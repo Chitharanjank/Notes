@@ -113,8 +113,6 @@ def lambda_handler(event, context):
 
 
 
----
-
 ## 1) Create SNS topic and subscribe your email (Console)
 
 1. Console → **SNS** → **Topics** → **Create topic** → **Standard**.
