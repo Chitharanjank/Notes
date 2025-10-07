@@ -227,7 +227,7 @@ def lambda_handler(event, context):
 
 ---
 
-## 6) Upload an object using AWS CLI (your requested CLI step)
+## 6) Upload an object using AWS CLI
 
 Make sure your AWS CLI is configured with the same Region and credentials: `aws configure`.
 
