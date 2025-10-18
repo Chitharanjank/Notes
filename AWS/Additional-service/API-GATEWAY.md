@@ -119,7 +119,7 @@ Only **one public URL** (like `https://api.myapp.com`) is exposed.
 
 ---
 
-### 🏦 Analogy Recap
+### Analogy Recap
 
 | Real Life             | Tech Equivalent  |
 | --------------------- | ---------------- |
@@ -142,7 +142,7 @@ Only **one public URL** (like `https://api.myapp.com`) is exposed.
 
 ---
 
-## 🧾 Summary
+## Summary
 
 | Concept         | Simple Meaning                                 | Example                                                 |
 | --------------- | ---------------------------------------------- | ------------------------------------------------------- |
