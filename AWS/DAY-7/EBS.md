@@ -7,7 +7,7 @@ It is primarily used to store data for EC2 instances (Virtual Servers) in AWS. E
 ## Key Concepts
 EBS Volumes: These are virtual disks that you attach to EC2 instances. They appear as block devices, similar to hard drives, but they reside in the cloud.
 
-Persistence: Data stored in EBS volumes remains intact after you stop or terminate your EC2 instance (unlike instance store volumes, which are temporary).
+Persistence: Data stored in EBS volumes remains intact after you stop or terminate your EC2 instance.
 
 Snapshots: You can create backups of EBS volumes using snapshots, which can be stored in Amazon S3. Snapshots allow you to restore the data or create new volumes from them.
 
