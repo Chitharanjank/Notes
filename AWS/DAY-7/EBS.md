@@ -103,4 +103,4 @@ for unmounting ypu can use
          umount <dev_name>
 
 # Architecture
-![My Image](/Images/EBS.jpg)
+![My Image](../Images/EBS.jpg)
