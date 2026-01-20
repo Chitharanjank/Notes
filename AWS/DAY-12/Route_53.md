@@ -70,4 +70,4 @@ EC2 instance processes request & sends response
 Response flows back through ALB to User’s Browser
 
 # Architecture
- ![My Image](/Images/Route53.jpg)
+ ![My Image](../Images/Route53.jpg)
